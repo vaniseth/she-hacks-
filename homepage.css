@@ -77,3 +77,149 @@ body {background-color: #b7e4c7;}
         text-align: left;
         padding-left: 70%;
     }
+
+    .flex-container {
+        display: flex;
+        background-color: #b7e4c7;
+      }
+      
+      .flex-container > div {
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        border-radius: 50%;
+      }
+    
+     .arrange{
+        width: 25%;
+        height: 100px;
+        align-items: center;
+        background-color: #b7e4c7;
+      }
+      .dbutton {
+        border: none;
+        color: white;
+        /* padding: 40px 32px; */
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        margin-left: 30px;
+        width: 200px;
+        height: 30px;
+        border-radius: 20px;
+      }
+    
+      .dbutton1 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      } 
+    
+      .dbutton1:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+    
+      .dbutton2 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      } 
+    
+      .dbutton2:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+    
+      .dbutton3 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      }
+    
+      .dbutton3:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+    
+      .dbutton4 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      } 
+    
+      .dbutton4:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+    
+      .arr{
+        width: 33.33%;
+        height: 100px;
+        align-items: center;
+      }
+    
+      .ddbutton {
+        border: none;
+        color: black;
+        /* padding: 40px 32px; */
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        margin-left: 30px;
+        width: 200px;
+        height: 30px;
+        border-radius: 20px;
+      }
+    
+      .dbutton5 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      } 
+    
+      
+      .dbutton5:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+      .dbutton6 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+        width: 260px;
+      }
+      
+      .dbutton6:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+      
+      .dbutton7 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #6c757d;
+      } 
+      
+      .dbutton7:hover {
+        background-color: #6c757d;
+        color: white;
+      }
+    
+      .flex-storage {
+        display: flex;
+        background-color: #b7e4c7;
+      }
+      
+      .flex-storage > div {
+        margin: 5px;
+        padding: 70px;
+        font-size: 30px;
+        border-radius: 50%;
+      }
