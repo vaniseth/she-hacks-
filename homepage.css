@@ -69,16 +69,28 @@ body {background-color: #b7e4c7;}
     border-radius: 5%; */
     }
    #bg{
-        text-align:right;
-        font-family: 'Akaya Telivigala', cursive;
+        
     }
-    h1{
-          font-size: 100px;
+    h2{
+          font-size: 30px;
+          margin-right: 5px;
+          margin-left: 5px;
+          text-align:right;
+          font-family: 'Akaya Telivigala', cursive;
     }
     p{
         text-align: left;
         padding-left: 70%;
+        margin-right: 5px;
+        text-align:right;
+        font-family: 'Akaya Telivigala', cursive;
     }
+
+    /* .mask{
+      align-items: center;
+      margin:auto
+    } */
+
   
   /* .row {
     padding: 20%;
@@ -202,7 +214,7 @@ body {background-color: #b7e4c7;}
     color: black; 
     border: 2px solid #6c757d;
     width: 300px;
-    height: 40px;
+    height: 50px;
   }
   
   .ddbutton6:hover {
