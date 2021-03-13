@@ -1,43 +1,51 @@
 body{
-    background-color: #48cae4;
-    /* background: #48cae4 url("Menstruation\ icon\ collection\ in\ line\ style_\ Menstrual\ pain\ symptoms.jfif" ) no-repeat scroll 100% 0%; */
+    background-color: #c388f3;
+    font-family: 'Akaya Kanadaka', cursive;
+   letter-spacing: 0.2px;
+   word-spacing: -0.6px;
 }
-/* .females{
-    border: 5px double #94999B;
-    -webkit-border-radius: 10px;
-border-radius: 10px;
-padding-left: 20px;
-padding-right: 20px;
-padding-top: 5px;
-padding-bottom: 5px;
-font-family: 'Akaya Kanadaka', cursive;
+.females{
+  
+    background-color: #ecbcfd;
+    -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.67); 
+    box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.67);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+   padding-bottom: 5px;
+   border-radius: 5%;
+   font-family: 'Akaya Kanadaka', cursive;
    letter-spacing: 0.2px;
    word-spacing: -0.6px;
    width: 50%;
    margin-left: 30px;
-} */
+} 
 .industrial{
-    border: 5px double #94999B;
-    -webkit-border-radius: 10px;
-border-radius: 10px;
+  
+background-color: #ecbcfd;
+-webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
 padding-left: 20px;
 padding-right: 20px;
 padding-top: 5px;
 padding-bottom: 5px;
+border-radius: 5%;
 font-family: 'Akaya Kanadaka', cursive;
-   letter-spacing: 0.2px;
-   word-spacing: -0.6px;
+letter-spacing: 0.2px;
+word-spacing: -0.6px;
    width: 50%;
    margin-left: 30px;
 }
 .domestic{
-    border: 5px double #94999B;
-    -webkit-border-radius: 10px;
-     border-radius: 10px;
+    
+     background-color: #ecbcfd;
+     -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+     box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
      padding-left: 20px;
      padding-right: 20px;
      padding-top: 5px;
      padding-bottom: 5px;
+     border-radius: 5%;
      font-family: 'Akaya Kanadaka', cursive;
    letter-spacing: 0.2px;
    word-spacing: -0.6px;
@@ -45,44 +53,28 @@ font-family: 'Akaya Kanadaka', cursive;
    margin-left: 30px;
 }
 
- /* .menses {
-    width: 100 px;
-    height : 200 px;
-    background-size : 50% */
-/* }  */
+ 
 
-    
-/* } */
+.mens{
+    background :url("Menstruation\ icon\ collection\ in\ line\ style_\ Menstrual\ pain\ symptoms.jfif") no-repeat scroll 90% 50%;
+    background-size:300px 300px; 
+    height: 450px;
+   width: 90%; 
+   padding-left: 100px;
+}
 
-/* .image{
-    width: 20px;
-    height: 20px;
-} */
-/* .common1{ 
-    background: url("Menstruation icon collection in line style_ Menstrual pain symptoms.jfif") no-repeat scroll ;
-    background-size: 420px 350px;
-   
-     height:350px;
-    width: 400px;
-    margin-left: 5%;
-   margin-right: 10%;
-    margin-bottom: 5%;
+.indus{
+    background :url("Safety_Work_Icons__Safety_At_Work_Vector_Icons_Collection_.jfif") no-repeat scroll 90% 80%;
+    background-size:300px 300px; 
+    height: 350px;
+   width: 90%; 
+   padding-left: 100px;
+}
 
-    border-radius: 10px; 
-    margin-left: 80px;
-    margin-left: 85%;
-}  */
-.females{
-    border: 5px double #94999B;
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 5px;
-   padding-bottom: 5px;
-   font-family: 'Akaya Kanadaka', cursive;
-   letter-spacing: 0.2px;
-   word-spacing: -0.6px;
-   width: 50%;
-   margin-left: 30px;
-} 
+.domes{
+    background :url("clean.jfif") no-repeat scroll 90% 80%;
+    background-size:300px 300px; 
+    height: 400px;
+   width: 90%; 
+   padding-left: 100px;
+}
