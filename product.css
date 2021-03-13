@@ -4,6 +4,23 @@ body{
    letter-spacing: 0.2px;
    word-spacing: -0.6px;
 }
+
+.site-header__wrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ 
+ .site-header{
+   background-color: white;
+       text-align:right;
+       font-family: 'Akaya Telivigala', cursive;
+   }
+ 
+   img{
+     width: 80%;
+   }
+
 .females{
   
     background-color: #ecbcfd;
@@ -77,4 +94,39 @@ word-spacing: -0.6px;
     height: 400px;
    width: 90%; 
    padding-left: 100px;
+}
+
+.footer{
+   background-color:white;
+   color:blue;
+}
+
+.footer p{
+   text-align: center ;
+   padding-top: 30px;
+   color:blue;
+ font-size:15px;
+ text-transform:uppercase;
+
+ letter-spacing:2px
+}
+.footer ul{
+   margin-left: 570px;
+   padding-top: 10px;
+}
+.footer li{
+   display:inline-block;
+  
+}
+.footer a
+{
+ color:black;
+ 
+ 
+}
+
+.footer a:hover
+{
+ color:#3366cc;
+ text-decoration:none;
 }
