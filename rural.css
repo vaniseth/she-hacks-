@@ -1,0 +1,127 @@
+body{
+    background:#ff8da0;
+}
+
+h1{text-align: center;
+    font-family: Akaya Kanadaka ;
+font-size: 40px;
+letter-spacing: -2px;
+word-spacing: 5.2px;
+color: #171ada;
+font-weight: 700;
+text-decoration: underline solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+}
+
+h2{padding-left: 60%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 21px;
+letter-spacing: -1.2px;
+word-spacing: 5.2px;
+color: #570777;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+padding-bottom: 50px;
+}
+
+.yui{  margin-top: 5px;
+    height: 600px;
+    width: 700px;
+    margin-left: 1%;
+    font-family: Tahoma, Geneva, sans-serif;
+font-size: 17px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+padding-top: 20px;
+padding-right: 20px;
+padding-left: 20px;
+margin-left: 5%;
+-webkit-box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41); 
+box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41);
+border-radius: 20px;
+background:#e9cbcf;
+}
+
+.wer{
+    
+    height: 300px;
+    width: 800px;
+    margin-left:500px;
+    margin-top:2%; 
+    font-family: Tahoma, Geneva, sans-serif;
+font-size: 17px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+padding-top: 60px;
+padding-right: 20px;
+padding-left: 20px;
+-webkit-box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41); 
+box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41);
+border-radius: 20px;
+background:#e9cbcf;
+}
+
+
+
+.cde{
+    /* background: url("https://image.slidesharecdn.com/populationcensus-draft3-150821154851-lva1-app6891/95/decoding-open-data-2011-indian-census-33-638.jpg?cb=1441610096") no-repeat scroll 5% 10%, rgb(85, 50, 50); */
+    background:url("https://i.pinimg.com/236x/cb/e0/8f/cbe08fcc9f3a4876420415dbc9eb37e0.jpg") no-repeat  ;
+    background-size: 420px 350px;
+    /* border: brown double 10px; */
+    height:350px;
+    width: 400px;
+    margin-left: 5%;
+   margin-right: 10%;
+    margin-bottom: 5%;
+    border: 5px solid #000000;
+    border-radius: 25px;
+    box-shadow: 0px 0px 16px 7px rgba(0,0,0,0.82);
+
+    /* -webkit-box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41); 
+    box-shadow: 0px 0px 40px 28px rgba(0,0,0,0.41);
+    border-radius: 10px; */
+}
+ .hjk{
+    background:  url("https://i.pinimg.com/236x/7c/9d/10/7c9d107eb10189812e3fbee004e0fb2e.jpg") no-repeat scroll 95% 40% , url("https://i.pinimg.com/236x/1e/97/62/1e9762c4451555e2040ce96ab7e058fb.jpg") no-repeat scroll 80% 40%,url("https://i.pinimg.com/236x/08/fe/af/08feaf165bca56f964f7e1c79c9823e6.jpg") no-repeat scroll 65% 80%,url("https://i.pinimg.com/236x/23/34/ac/2334ac6f02e37b1e623286efb8f3b1a1.jpg") no-repeat scroll 95% 80%,url("https://i.pinimg.com/236x/ce/32/93/ce329331bcb3e11d849a3d792e5f346e.jpg") no-repeat scroll 80% 80%,url("https://i.pinimg.com/236x/b9/f4/23/b9f423e3fc4ad7597e505f69e644dcd4.jpg") no-repeat scroll  95% 0%;
+   padding-right: 10%;
+    height: 700px;
+    background-size: 180px 180px;
+} 
+h4{margin-top: 0%;
+    font-family: Georgia, serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #CD10FF;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant:normal;
+text-transform: uppercase;
+text-align: center;
+/* border: 2px solid #000000; */
+border-radius: 20px;
+width: 70%;
+margin-left: 15%;
+padding-bottom: 5px;
+padding-top: 5px;
+box-shadow: 0px 0px 16px 7px rgba(0,0,0,0.82);
+background:#e9cbcf;
+}
