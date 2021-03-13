@@ -1,0 +1,77 @@
+body{background-color:#98c1d9;
+    border: 13px groove #1C6EA4;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    word-spacing: 3.8px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none solid rgb(255, 255, 255);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none; }
+      
+        .advantages{
+          padding-top: 5px;
+          padding-left: 300px;
+          font-family: "Comic Sans MS", cursive, sans-serif;
+          font-size: 28px;
+          letter-spacing: 1px;
+          word-spacing: 3.8px;
+          color: #000000;
+          font-weight: 700;
+          text-decoration: none solid rgb(255, 255, 255);
+          font-style: normal;
+          font-variant: normal;
+            text-transform: capitalize;}
+        
+      h4{
+         /* vertical-align: right; */
+            padding-right: 10%;
+          padding-left: 5%;}
+       
+      h6{ 
+        padding-right: 5%;
+        padding-left: 5%;
+        height: 255px;
+      }
+      h3{
+        padding-left: 5%;
+      }
+      .image{
+        
+        backgroung-size:40px 40px;
+        height:250px;background:url("adv img.png")no-repeat scroll 3% 3%;
+        margin-top:  2%;
+        /* border: 5px solid #1C6EA4; */
+        
+      }
+      .imagee{
+       
+        height:250px;
+        background:url("para 1 img.png")no-repeat scroll 95% 20%;
+        background-size :220px 220px;
+        margin-top:  4%;
+    
+  
+      }
+      .para5{
+        height:250px;
+        background:url("para 3img.png") no-repeat scroll 95% 20%;
+        background-size :220px 220px;
+      
+      }
+      .para3{
+        height:250px;
+        background:url("para5 img.png")no-repeat scroll 95% 10%;
+        background-size :220px 220px;
+        margin-top:  4%;
+      }
+
+h6{
+    -webkit-box-shadow: 0px 0px 16px 7px rgba(0,0,0,0.82); 
+box-shadow: 0px 0px 16px 7px rgba(0,0,0,0.82);
+width: 55%;
+height: 240px;
+margin-left: 5%;
+}
