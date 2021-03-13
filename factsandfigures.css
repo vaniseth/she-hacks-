@@ -1,0 +1,90 @@
+body{background-color:#00b4d8 ;}
+
+.site-header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .site-header{
+    background-color: white;
+        text-align:right;
+        font-family: 'Akaya Telivigala', cursive;
+    }
+  
+    img{
+      width: 80%;
+    }
+
+    .button {
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+      
+    .button1 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #03045e;
+    }
+      
+    .button1:hover {
+        background-color: #03045e;
+        color: white;
+    }
+      
+    .button2 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #03045e;
+    } 
+      
+    .button2:hover {
+        background-color: #03045e;
+        color: white;
+    }
+
+    #flexbox {
+        display: flex;
+        height: 500px;
+        column-gap: 20px;
+        width:1500px;
+      }
+      
+    #flexbox > div {
+        border: 1px solid #ade8f4;
+        background-color: #ade8f4;
+        flex: auto;
+        border-radius: 10%;
+        box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+        width: 300px;
+    }
+    
+    .flex-pictures {
+        display: flex;
+        background-color:#00b4d8 ;
+    }
+      
+    .flex-pictures > div {
+        margin: 5px;
+        padding: 70px;
+        font-size: 30px;
+        border-radius: 50%;
+    }
+
+    .pics{
+        width: 30%;
+        height: 30%;
+        margin: 20px;
+        padding: 20px;
+    }
+    
+    #pics2{
+        padding-left: 30%;
+    }
