@@ -1,0 +1,184 @@
+body {background:#f85586;
+    margin:0px;
+    padding:0px;
+    margin-top: 1%;
+    }
+ 
+ .me{
+    background-color: #ffb3c6;
+   padding-top: 5px;
+   padding-bottom: 50px;
+   height: 100px;
+   /* border: 1px #fcd5ce; */
+   -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+   border-radius:25px;
+/* border-radius: 25px; */
+margin-left: 2%; 
+margin-top:5%;
+/* background :url("vani2.jpg") no-repeat scroll 5% 20%; */
+background-size:220px 250px; 
+height: 250px;
+width: 90%; 
+padding-left: 100px;
+    
+ }
+ 
+ 
+    .pragya {
+      /* background-color: #0096c7; */
+       width: 65%;
+       margin-left: 270px;
+       font-family: 'Akaya Kanadaka', cursive;
+       font-size: 16px;
+       letter-spacing: 0.2px;
+       word-spacing: -0.6px;
+       color: #0F040D;
+       font-weight: 400;
+       text-decoration: none solid rgb(68, 68, 68);
+       font-style: normal;
+       font-variant: normal;
+       text-transform: none;
+       padding-left: 20px;
+       padding-right: 20px;
+       padding-top: 0px;
+       padding-bottom: 5px;
+      
+    }
+    .vani {
+    width: 65%;
+    margin-left: 30px;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    word-spacing: -0.6px;
+    color: #0F040D;
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding-left: 260px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top:5px; 
+   
+ }
+ .unnati{
+    width: 65%;
+    margin-left: 280px;
+    font-family: 'Akaya Kanadaka', cursive;
+    letter-spacing: 0.2px;
+    word-spacing: -0.6px;
+    word-spacing: 2px;
+    color: #0F040D;
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+   
+ }
+ .drishti{ 
+    width: 65%;
+    margin-left:280px;
+    font-family: 'Akaya Kanadaka', cursive;
+    letter-spacing: 0.2px;
+    word-spacing: -0.6px;
+    word-spacing: 2px;
+    color: #0F040D;
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    /* padding-bottom: 5px; */
+   
+ }
+
+
+.xyz{
+   
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 100px;
+        
+        -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+        border-radius:25px;
+ 
+   margin-left: 7%; 
+    margin-top:5%;
+    background :url("pragya.jpeg") no-repeat scroll 5% 20%, #ffc2d1;
+    background-size:220px 250px; 
+    height: 250px;
+   width: 70%; 
+   padding-left: 100px;
+   
+}
+.abc{
+   background-color: #00b4d8;
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 100px;
+        
+        -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+        border-radius:25px;
+   
+   margin-left: 7%; 
+    margin-top:5%;
+    background :url("unnati.jpeg") no-repeat scroll 5% 20%,#ffc2d1;
+    background-size:220px 250px; 
+    height: 250px;
+   width: 70%; 
+   padding-left: 100px;
+}
+
+.def{ 
+   background-color: #00b4d8;
+   
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 100px;
+        -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+         box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+         border-radius:25px;
+         margin-left: 7%; 
+         margin-top:5%;
+         background :url("vani2.jpg") no-repeat scroll 5% 20%,#ffc2d1;
+         background-size:220px 250px; 
+         height: 250px;
+         width: 70%; 
+         padding-left: 100px;
+  
+}
+
+.ghi{
+   
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 100px;
+        
+        -webkit-box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66); 
+box-shadow: -2px 4px 19px 0px rgba(0,0,0,0.66);
+        border-radius:25px;
+   
+   margin-left: 7%; 
+    margin-top:5%;
+    background :url("drishti.jpeg") no-repeat scroll 5% 20%,#ffc2d1;
+    
+    background-size:220px 250px; 
+    height: 250px;
+   width: 70%; 
+   padding-left: 100px;
+}
