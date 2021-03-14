@@ -68,6 +68,15 @@ body {background-color: #b7e4c7;}
     background-color:#deaaff;
     border-radius: 5%; */
     }
+
+    .abc{
+      background:url("https://cdn4.iconfinder.com/data/icons/hygiene-5/681/hygiene_clean_anti_sanitation_medical_protect_hand_liquid_wash-512.png") no-repeat scroll 10% 8% ,url("https://cdn4.iconfinder.com/data/icons/hygiene-5/713/hygiene_clean_anti_sanitation_medical_protect_safety-512.png") no-repeat scroll 20% 70%  ,url("https://th.bing.com/th/id/OIP.oyrSFJgg8DbrFoxCdb_4NQHaHa?w=209&h=209&c=7&o=5&dpr=1.25&pid=1.7") no-repeat scroll 10% 70% ,url("https://th.bing.com/th/id/OIP.OjsbKo9Tt5IavT1InIR24wHaHa?w=203&h=204&c=7&o=5&dpr=1.25&pid=1.7") no-repeat scroll 20% 13%; 
+     
+      background-size: 100px 100px;
+      height: 300px;
+    
+    }
+
    #bg{
         
     }
@@ -75,14 +84,15 @@ body {background-color: #b7e4c7;}
           font-size: 30px;
           margin-right: 5px;
           margin-left: 5px;
-          text-align:right;
+          text-align:center;
+          padding-left: 40%;
           font-family: 'Akaya Telivigala', cursive;
     }
     p{
-        text-align: left;
-        padding-left: 70%;
-        margin-right: 5px;
-        text-align:right;
+        text-align: center;
+        padding-left: 40%;
+        margin-right: 15px;
+        /* text-align:right; */
         font-family: 'Akaya Telivigala', cursive;
     }
 
