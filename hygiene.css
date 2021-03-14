@@ -1,0 +1,151 @@
+hg para{border-style: ridge; 
+    border-color: rgba(144, 130, 224, 0.41);
+    border-radius: 25px;
+    width: 50%;
+    margin-left: 30px;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    word-spacing: -0.6px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none solid rgb(43, 43, 43);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px}
+    body{background-color:#e5989b;
+
+    }
+    para{
+        font-family: Verdana, Geneva, sans-serif;
+font-size: 22px;
+letter-spacing: 0px;
+word-spacing: 0.4px;
+color: #000000;
+font-weight: 400;
+text-decoration: underline solid rgb(255, 255, 255);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+    }
+    h1{border: 6px inset 
+        text-shadow: 2px 0px 2px #ff8251;
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 60px;
+        letter-spacing: 5px;
+        word-spacing: 0.4px;
+        color: #6e1616;
+        font-weight: 700;
+        text-decoration: underline solid rgb(255, 255, 255);
+        font-style: normal;
+        font-variant: normal;
+        text-transform: capitalize;
+    padding-left: 100px;}
+    h2{
+        font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+    }
+    h3{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 20px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+    }
+    p{
+        font-family: Tahoma, Geneva, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+padding-right: 5%;
+padding-left: 2%;}
+    }
+    .border 1{
+        border: 3px 
+    }
+    
+    #padding{
+        background-color: #fcd5ce ;
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 1460px;
+        border: 1px #fcd5ce;
+        box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+        border-radius:25px;
+        
+    }
+    #paddingg{
+        background-color: #fcd5ce ;
+        padding-top: 5px;
+        padding-bottom: 50px;
+        height: 2400px;
+        border: 1px #fcd5ce;
+        box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+        border-radius:25px;
+        margin-top: 4%;
+    }
+    #paddinggg{
+        background-color: #fcd5ce ;
+        padding-to5px;
+        padding-bottom: 50px;
+        height: 580px;
+        border: 1px #fcd5ce;
+        box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+        border-radius:25px;
+        margin-top: 4%;
+    }
+    h4{font-family: Tahoma, Geneva, sans-serif;
+        font-size: 16px;
+        letter-spacing: 2px;
+        word-spacing: 2px;
+        color: #000000;
+        font-weight: normal;
+        text-decoration: none;
+        font-style: normal;
+        font-variant: normal;
+        text-transform: none;
+        padding-right: 10%;
+        padding-left: 25%;
+       }
+
+    }
+    .images{
+        scroll 100% 80%;
+    }
+    .lg 1{ height:250px;
+        /* background:url("lg 1.png")no-repeat scroll 600% 600%; */
+        background-size :220px 220px;
+        margin-top:  4%;
+    
+
+    }
+.lg 22{
+    height:1px;
+       
+        background-size :10px 10px;
+        margin-top:  4%;
+}
+
